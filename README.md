@@ -1,7 +1,7 @@
 <h1 align="center">
 🐝 WASP Stealer (Discord Token Grabber) 🐝
 <h1 align="center">
-They sell this for 30$💀
+
 <p align="center"> 
   <kbd>
 <img src="https://cdn.discordapp.com/attachments/963114349877162004/992245751247806515/unknown.png" width="328"></img>
@@ -16,6 +16,7 @@ They sell this for 30$💀
 - [⚠️ Note](#note)
 
 ### 〢 Setting Up
+Make sure you have python installed | (https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe).
 
 1. Put ur webhook at hook = ""
 2. and run main.py
