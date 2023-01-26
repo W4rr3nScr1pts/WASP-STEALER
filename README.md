@@ -57,14 +57,11 @@ Make sure you have python installed | (https://www.python.org/ftp/python/3.11.1/
 
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/1022924956356591707/1023191911147778138/3346914e-af8e-4193-a534-9ffc72137323.png" width="328"></img>
+<img src="https://ibb.co/JRqjmTJ" width="328"></img>
   </kbd>
 </p>
 
 ### 〢 Note
 
 I am not responsible for any damages this software may cause. This was made for personal education.
-### People who skidded/put a rat in it:
-Ayhuuu / Ayhu#1337 - 
-Caleb0205
 
