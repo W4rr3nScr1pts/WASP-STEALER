@@ -57,7 +57,7 @@ Make sure you have python installed | (https://www.python.org/ftp/python/3.11.1/
 
 <p align="center"> 
   <kbd>
-<img src="https://ibb.co/JRqjmTJ" width="328"></img>
+<img src="https://i.ibb.co/99hHc05/Screenshot-2023-01-25-160745.png" width="328"></img>
   </kbd>
 </p>
 
